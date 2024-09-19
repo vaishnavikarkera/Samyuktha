@@ -14,7 +14,8 @@ b= 32'hffffffff;
 #10 fun = 1;  
 #10 fun = 2;  
 #10 fun = 3;  
-#10 fun = 4;  
+#10 fun = 4;
+#10 fun = 5;
 #10 $finish;  
 end  
 endmodule  
