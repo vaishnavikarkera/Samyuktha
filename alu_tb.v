@@ -1,6 +1,6 @@
 ALU test bench code:
 
-Module alu_tb();  
+module alu_tb();  
 reg [31:0]a;  
 reg [31:0]b;  
 reg [2:0]fun;  
