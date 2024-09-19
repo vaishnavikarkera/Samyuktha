@@ -1,5 +1,3 @@
-ALU test bench code:
-
 module alu_tb();  
 reg [31:0]a;  
 reg [31:0]b;  
